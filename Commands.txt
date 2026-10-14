@@ -1,0 +1,9 @@
+git init //intiliazed repo locally
+git add Lab_2.txt // added first File
+git commit -m "First Commit With Txt file" // commited first file
+{
+    git remote add origin git@github.com:MuhammedAhmedSalah/Lab_2_Mohamed_Ahmed_Salah.git
+    git branch -M main
+    git push origin main
+} //pushed to remote repo(github)
+git branch //
