@@ -1,4 +1,6 @@
 Test
+
+![Assets](/Assets/Testing_Img.png "Lab Screenshot")
 git init //intiliazed repo locally
 git add Lab_2.txt // added first File
 git commit -m "First Commit With Txt file" // commited first file
